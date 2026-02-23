@@ -130,15 +130,16 @@ function RecipesContent() {
   // On mount: generate, restore from session, or fetch from Firestore.
   // Clear generated recipes on hard refresh so they don't persist across reloads.
   useEffect(() => {
-    // Safely detect hard reloads to clear generated recipes.
-    const navEntry =
-      typeof window !== "undefined"
-        ? (performance.getEntriesByType?.("navigation")?.[0] as
-            | PerformanceNavigationTiming
-            | undefined)
-        : undefined;
-    if (navEntry?.type === "reload") {
-      sessionStorage.removeItem("generatedRecipes");
+    if (typeof window !== "undefined") {
+      try {
+        const nav = performance.navigation;
+        const isReload = nav.type === nav.TYPE_RELOAD;
+        if (isReload) {
+          sessionStorage.removeItem("generatedRecipes");
+        }
+      } catch {
+        // If the PerformanceNavigation API is unavailable, skip clearing.
+      }
     }
 
     if (source === "generate") {
