@@ -1,0 +1,1021 @@
+[
+  {
+    "title": "Classic Margherita Pizza",
+    "description": "A timeless Neapolitan pizza with San Marzano tomato sauce, fresh mozzarella, and fragrant basil on a thin, crispy crust.",
+    "cuisine": "Italian",
+    "difficulty": "medium",
+    "cookingTimeMinutes": 45,
+    "servings": 4,
+    "ingredients": [
+      { "name": "pizza dough", "quantity": "500g", "optional": false },
+      { "name": "San Marzano tomatoes", "quantity": "400g can", "optional": false },
+      { "name": "fresh mozzarella", "quantity": "250g", "optional": false },
+      { "name": "fresh basil leaves", "quantity": "1 bunch", "optional": false },
+      { "name": "extra virgin olive oil", "quantity": "2 tbsp", "optional": false },
+      { "name": "garlic", "quantity": "2 cloves", "optional": false },
+      { "name": "sea salt", "quantity": "1 tsp", "optional": false },
+      { "name": "semolina flour", "quantity": "2 tbsp", "optional": true }
+    ],
+    "steps": [
+      "Preheat your oven to the highest setting (ideally 250°C/480°F) with a baking stone or inverted baking sheet inside for at least 30 minutes.",
+      "Crush the San Marzano tomatoes by hand, mix with minced garlic, a drizzle of olive oil, and salt to make the sauce.",
+      "Divide the dough into two balls and stretch each into a thin round on a floured surface, dusting with semolina to prevent sticking.",
+      "Spread a thin layer of tomato sauce over each base, leaving a 1cm border for the crust.",
+      "Tear the mozzarella into pieces and distribute evenly over the sauce.",
+      "Slide the pizza onto the hot baking stone and bake for 8-10 minutes until the crust is golden and charred in spots.",
+      "Remove from the oven, top with fresh basil leaves and a drizzle of olive oil, then serve immediately."
+    ],
+    "nutrition": {
+      "calories": 540,
+      "protein": 22,
+      "carbs": 64,
+      "fat": 20,
+      "fiber": 3
+    },
+    "dietaryTags": ["vegetarian"],
+    "substitutions": [
+      { "original": "fresh mozzarella", "replacement": "vegan mozzarella", "note": "Use a melting variety for best results" },
+      { "original": "pizza dough", "replacement": "store-bought naan bread", "note": "For a quick flatbread pizza alternative" },
+      { "original": "San Marzano tomatoes", "replacement": "Roma tomatoes", "note": "Roast them first for deeper flavor" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Risotto ai Funghi Porcini",
+    "description": "A luxuriously creamy Italian risotto made with dried porcini mushrooms, Parmigiano-Reggiano, and a splash of white wine.",
+    "cuisine": "Italian",
+    "difficulty": "hard",
+    "cookingTimeMinutes": 55,
+    "servings": 4,
+    "ingredients": [
+      { "name": "arborio rice", "quantity": "320g", "optional": false },
+      { "name": "dried porcini mushrooms", "quantity": "30g", "optional": false },
+      { "name": "vegetable broth", "quantity": "1.2 liters", "optional": false },
+      { "name": "dry white wine", "quantity": "120ml", "optional": false },
+      { "name": "shallots", "quantity": "2 medium", "optional": false },
+      { "name": "Parmigiano-Reggiano", "quantity": "80g, grated", "optional": false },
+      { "name": "unsalted butter", "quantity": "50g", "optional": false },
+      { "name": "extra virgin olive oil", "quantity": "2 tbsp", "optional": false },
+      { "name": "fresh thyme", "quantity": "3 sprigs", "optional": true },
+      { "name": "salt and pepper", "quantity": "to taste", "optional": false }
+    ],
+    "steps": [
+      "Soak the dried porcini mushrooms in 250ml warm water for 20 minutes, then drain and reserve the soaking liquid, straining it through a fine sieve.",
+      "Heat the vegetable broth in a saucepan and keep it at a gentle simmer.",
+      "In a heavy-bottomed pan, heat olive oil and half the butter over medium heat, then sauté the finely diced shallots until translucent.",
+      "Add the soaked porcini mushrooms and cook for 3-4 minutes until fragrant.",
+      "Add the arborio rice and toast for 2 minutes, stirring constantly, until the edges become translucent.",
+      "Pour in the white wine and stir until fully absorbed, then add the reserved mushroom soaking liquid.",
+      "Add the warm broth one ladle at a time, stirring frequently and waiting until each addition is absorbed before adding the next, for about 18-20 minutes.",
+      "Remove from heat, stir in the remaining butter and Parmigiano-Reggiano, cover and rest for 2 minutes before serving."
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 18,
+      "fiber": 2
+    },
+    "dietaryTags": ["vegetarian", "gluten-free"],
+    "substitutions": [
+      { "original": "dried porcini mushrooms", "replacement": "mixed fresh wild mushrooms", "note": "Use 200g fresh; skip the soaking step" },
+      { "original": "white wine", "replacement": "dry vermouth or extra broth with lemon juice", "note": "Vermouth adds herbal complexity" },
+      { "original": "Parmigiano-Reggiano", "replacement": "Pecorino Romano", "note": "Gives a sharper, saltier finish" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Spaghetti Aglio e Olio",
+    "description": "A quintessential Roman pasta dish of spaghetti tossed with golden garlic, red pepper flakes, and parsley in fruity olive oil.",
+    "cuisine": "Italian",
+    "difficulty": "easy",
+    "cookingTimeMinutes": 20,
+    "servings": 4,
+    "ingredients": [
+      { "name": "spaghetti", "quantity": "400g", "optional": false },
+      { "name": "garlic", "quantity": "8 cloves", "optional": false },
+      { "name": "extra virgin olive oil", "quantity": "80ml", "optional": false },
+      { "name": "red pepper flakes", "quantity": "1 tsp", "optional": false },
+      { "name": "fresh flat-leaf parsley", "quantity": "1/2 cup, chopped", "optional": false },
+      { "name": "salt", "quantity": "for pasta water", "optional": false },
+      { "name": "Parmigiano-Reggiano", "quantity": "for serving", "optional": true }
+    ],
+    "steps": [
+      "Bring a large pot of heavily salted water to a boil and cook the spaghetti until 1 minute short of al dente, reserving 1 cup of pasta water before draining.",
+      "While the pasta cooks, thinly slice the garlic and gently heat it in olive oil over medium-low heat, stirring often, until golden (about 4-5 minutes).",
+      "Add the red pepper flakes to the garlic oil and cook for 30 seconds.",
+      "Add the drained spaghetti directly to the pan along with 1/2 cup of the reserved pasta water.",
+      "Toss vigorously over medium heat for 1-2 minutes until the sauce emulsifies and clings to the pasta, adding more pasta water if needed.",
+      "Remove from heat, toss with chopped parsley, and serve with grated Parmigiano-Reggiano if desired."
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 58,
+      "fat": 16,
+      "fiber": 3
+    },
+    "dietaryTags": ["vegan", "dairy-free"],
+    "substitutions": [
+      { "original": "spaghetti", "replacement": "gluten-free spaghetti", "note": "Use a rice-corn blend for best texture" },
+      { "original": "red pepper flakes", "replacement": "Calabrian chili paste", "note": "Adds smoky heat and depth" },
+      { "original": "flat-leaf parsley", "replacement": "fresh basil", "note": "Gives a sweeter, more aromatic finish" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Chicken Tacos al Pastor",
+    "description": "Smoky, pineapple-marinated chicken tacos inspired by the classic al pastor preparation, served with cilantro, onion, and lime.",
+    "cuisine": "Mexican",
+    "difficulty": "medium",
+    "cookingTimeMinutes": 50,
+    "servings": 6,
+    "ingredients": [
+      { "name": "boneless chicken thighs", "quantity": "700g", "optional": false },
+      { "name": "pineapple", "quantity": "4 rings, fresh or canned", "optional": false },
+      { "name": "dried guajillo chiles", "quantity": "3 large", "optional": false },
+      { "name": "achiote paste", "quantity": "1 tbsp", "optional": false },
+      { "name": "white onion", "quantity": "1 medium", "optional": false },
+      { "name": "corn tortillas", "quantity": "12 small", "optional": false },
+      { "name": "fresh cilantro", "quantity": "1/2 cup, chopped", "optional": false },
+      { "name": "lime", "quantity": "3, cut into wedges", "optional": false },
+      { "name": "white vinegar", "quantity": "2 tbsp", "optional": false },
+      { "name": "garlic", "quantity": "3 cloves", "optional": false },
+      { "name": "cumin", "quantity": "1 tsp", "optional": false }
+    ],
+    "steps": [
+      "Toast the guajillo chiles in a dry pan for 1 minute per side, then soak in hot water for 15 minutes and drain.",
+      "Blend the soaked chiles with achiote paste, garlic, vinegar, cumin, and 2 pineapple rings into a smooth marinade.",
+      "Coat the chicken thighs in the marinade and refrigerate for at least 30 minutes (or up to overnight).",
+      "Grill or pan-sear the marinated chicken over high heat for 5-6 minutes per side until charred and cooked through.",
+      "Grill the remaining pineapple rings and half the onion alongside the chicken until caramelized.",
+      "Dice the grilled chicken, pineapple, and onion into small pieces.",
+      "Warm the corn tortillas on the grill or a dry skillet, then assemble tacos with the chicken, grilled pineapple, onion, cilantro, and a squeeze of lime."
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 40,
+      "fat": 12,
+      "fiber": 5
+    },
+    "dietaryTags": ["dairy-free", "gluten-free"],
+    "substitutions": [
+      { "original": "chicken thighs", "replacement": "pork shoulder, thinly sliced", "note": "Traditional al pastor uses pork; adjust cooking time accordingly" },
+      { "original": "guajillo chiles", "replacement": "ancho chiles", "note": "Milder and slightly sweeter flavor" },
+      { "original": "corn tortillas", "replacement": "flour tortillas", "note": "Softer texture but no longer gluten-free" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Guacamole Clásico",
+    "description": "A vibrant, chunky guacamole made with perfectly ripe avocados, fresh lime juice, serrano peppers, and cilantro.",
+    "cuisine": "Mexican",
+    "difficulty": "easy",
+    "cookingTimeMinutes": 10,
+    "servings": 4,
+    "ingredients": [
+      { "name": "ripe avocados", "quantity": "3 large", "optional": false },
+      { "name": "lime juice", "quantity": "2 tbsp", "optional": false },
+      { "name": "white onion", "quantity": "1/4 cup, finely diced", "optional": false },
+      { "name": "serrano pepper", "quantity": "1, minced", "optional": false },
+      { "name": "fresh cilantro", "quantity": "3 tbsp, chopped", "optional": false },
+      { "name": "Roma tomato", "quantity": "1, seeded and diced", "optional": false },
+      { "name": "sea salt", "quantity": "1/2 tsp", "optional": false },
+      { "name": "tortilla chips", "quantity": "for serving", "optional": true }
+    ],
+    "steps": [
+      "Halve the avocados, remove the pits, and scoop the flesh into a bowl.",
+      "Add the lime juice and salt, then mash with a fork to your preferred consistency, leaving some chunks.",
+      "Fold in the diced onion, minced serrano pepper, chopped cilantro, and diced tomato.",
+      "Taste and adjust seasoning with more lime juice or salt as needed.",
+      "Serve immediately with tortilla chips, or press plastic wrap directly onto the surface to prevent browning."
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 18,
+      "fiber": 9
+    },
+    "dietaryTags": ["vegan", "gluten-free", "dairy-free", "paleo"],
+    "substitutions": [
+      { "original": "serrano pepper", "replacement": "jalapeño", "note": "Jalapeño is milder; use more to match heat level" },
+      { "original": "cilantro", "replacement": "flat-leaf parsley with a pinch of cumin", "note": "For those who find cilantro soapy" },
+      { "original": "Roma tomato", "replacement": "mango, diced", "note": "Adds tropical sweetness for a fruit-forward guacamole" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Enchiladas Rojas de Queso",
+    "description": "Corn tortillas stuffed with melted cheese and bathed in a rich, smoky dried chile sauce, topped with crema and pickled onions.",
+    "cuisine": "Mexican",
+    "difficulty": "medium",
+    "cookingTimeMinutes": 60,
+    "servings": 4,
+    "ingredients": [
+      { "name": "corn tortillas", "quantity": "12", "optional": false },
+      { "name": "Oaxaca cheese", "quantity": "300g, shredded", "optional": false },
+      { "name": "dried ancho chiles", "quantity": "4 large", "optional": false },
+      { "name": "dried guajillo chiles", "quantity": "3 large", "optional": false },
+      { "name": "garlic", "quantity": "3 cloves", "optional": false },
+      { "name": "chicken broth", "quantity": "500ml", "optional": false },
+      { "name": "cumin", "quantity": "1 tsp", "optional": false },
+      { "name": "Mexican crema", "quantity": "1/2 cup", "optional": false },
+      { "name": "white onion", "quantity": "1, thinly sliced", "optional": false },
+      { "name": "vegetable oil", "quantity": "3 tbsp", "optional": false },
+      { "name": "oregano", "quantity": "1 tsp", "optional": false }
+    ],
+    "steps": [
+      "Toast the ancho and guajillo chiles in a dry skillet for 1 minute per side, then soak in hot water for 20 minutes.",
+      "Blend the soaked chiles with garlic, cumin, oregano, and chicken broth until very smooth, then strain through a sieve.",
+      "Heat 1 tbsp oil in a saucepan, pour in the chile sauce, and simmer for 15 minutes until thickened, seasoning with salt.",
+      "Lightly fry each tortilla in oil for a few seconds per side to soften, then drain on paper towels.",
+      "Dip each tortilla in the warm chile sauce, fill with shredded cheese, roll up, and place seam-side down in a baking dish.",
+      "Pour remaining sauce over the enchiladas, top with extra cheese, and bake at 190°C/375°F for 15 minutes.",
+      "Serve topped with Mexican crema and sliced onion."
+    ],
+    "nutrition": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 42,
+      "fat": 28,
+      "fiber": 6
+    },
+    "dietaryTags": ["vegetarian", "gluten-free"],
+    "substitutions": [
+      { "original": "Oaxaca cheese", "replacement": "mozzarella", "note": "Similar melt and stretch, slightly milder flavor" },
+      { "original": "Mexican crema", "replacement": "sour cream thinned with lime juice", "note": "Mix 1/2 cup sour cream with 1 tbsp lime juice" },
+      { "original": "chicken broth", "replacement": "vegetable broth", "note": "Makes the dish fully vegetarian" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "description": "Tender chunks of spiced yogurt-marinated chicken simmered in a velvety tomato-cream sauce with warm aromatic spices.",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "cookingTimeMinutes": 60,
+    "servings": 4,
+    "ingredients": [
+      { "name": "boneless chicken thighs", "quantity": "600g, cubed", "optional": false },
+      { "name": "plain yogurt", "quantity": "150g", "optional": false },
+      { "name": "garam masala", "quantity": "2 tsp", "optional": false },
+      { "name": "ground turmeric", "quantity": "1 tsp", "optional": false },
+      { "name": "ground cumin", "quantity": "1 tsp", "optional": false },
+      { "name": "crushed tomatoes", "quantity": "400g can", "optional": false },
+      { "name": "heavy cream", "quantity": "150ml", "optional": false },
+      { "name": "onion", "quantity": "1 large, diced", "optional": false },
+      { "name": "garlic", "quantity": "4 cloves, minced", "optional": false },
+      { "name": "fresh ginger", "quantity": "1 tbsp, grated", "optional": false },
+      { "name": "kashmiri chili powder", "quantity": "1 tsp", "optional": false },
+      { "name": "fresh cilantro", "quantity": "for garnish", "optional": true }
+    ],
+    "steps": [
+      "Marinate the chicken in yogurt, half the garam masala, turmeric, and salt for at least 1 hour.",
+      "Thread chicken onto skewers or spread on a baking sheet and broil for 10-12 minutes until charred on the edges.",
+      "In a large pan, heat oil and sauté diced onion until deep golden brown, about 8-10 minutes.",
+      "Add garlic, ginger, cumin, remaining garam masala, and kashmiri chili powder, and cook for 2 minutes until fragrant.",
+      "Pour in the crushed tomatoes, stir well, and simmer for 15 minutes until the sauce thickens.",
+      "Stir in the heavy cream and add the broiled chicken pieces, simmering for another 10 minutes.",
+      "Adjust salt and spices to taste, garnish with fresh cilantro, and serve with basmati rice or naan."
+    ],
+    "nutrition": {
+      "calories": 460,
+      "protein": 34,
+      "carbs": 18,
+      "fat": 28,
+      "fiber": 3
+    },
+    "dietaryTags": ["gluten-free"],
+    "substitutions": [
+      { "original": "heavy cream", "replacement": "coconut cream", "note": "Makes it dairy-free with a slightly sweeter taste" },
+      { "original": "chicken thighs", "replacement": "paneer cubes", "note": "For a vegetarian version; skip the broiling step" },
+      { "original": "kashmiri chili powder", "replacement": "paprika with a pinch of cayenne", "note": "Kashmiri chili is mild and vibrant red; paprika mimics the color" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Chana Masala",
+    "description": "A hearty North Indian chickpea curry cooked with onions, tomatoes, and a fragrant blend of spices, finished with a squeeze of lemon.",
+    "cuisine": "Indian",
+    "difficulty": "easy",
+    "cookingTimeMinutes": 35,
+    "servings": 4,
+    "ingredients": [
+      { "name": "chickpeas", "quantity": "2 x 400g cans, drained", "optional": false },
+      { "name": "onion", "quantity": "1 large, finely diced", "optional": false },
+      { "name": "tomatoes", "quantity": "3 medium, pureed", "optional": false },
+      { "name": "garlic", "quantity": "4 cloves, minced", "optional": false },
+      { "name": "fresh ginger", "quantity": "1 tbsp, grated", "optional": false },
+      { "name": "ground coriander", "quantity": "2 tsp", "optional": false },
+      { "name": "ground cumin", "quantity": "1 tsp", "optional": false },
+      { "name": "garam masala", "quantity": "1 tsp", "optional": false },
+      { "name": "turmeric", "quantity": "1/2 tsp", "optional": false },
+      { "name": "lemon", "quantity": "1", "optional": false },
+      { "name": "vegetable oil", "quantity": "2 tbsp", "optional": false },
+      { "name": "fresh cilantro", "quantity": "for garnish", "optional": true }
+    ],
+    "steps": [
+      "Heat oil in a large pan over medium heat and sauté the diced onion for 6-8 minutes until golden brown.",
+      "Add garlic and ginger, cooking for another minute until fragrant.",
+      "Stir in the coriander, cumin, turmeric, and half the garam masala, toasting the spices for 30 seconds.",
+      "Pour in the pureed tomatoes and cook for 8-10 minutes until the oil separates from the sauce.",
+      "Add the drained chickpeas, 1/2 cup water, and salt, then simmer for 15 minutes, mashing a few chickpeas to thicken.",
+      "Finish with remaining garam masala, a generous squeeze of lemon juice, and fresh cilantro."
+    ],
+    "nutrition": {
+      "calories": 310,
+      "protein": 14,
+      "carbs": 44,
+      "fat": 10,
+      "fiber": 12
+    },
+    "dietaryTags": ["vegan", "gluten-free", "dairy-free", "high-fiber"],
+    "substitutions": [
+      { "original": "canned chickpeas", "replacement": "dried chickpeas, soaked overnight", "note": "Cook dried chickpeas for 45-60 minutes before using" },
+      { "original": "pureed tomatoes", "replacement": "canned crushed tomatoes", "note": "Slightly chunkier texture but equally delicious" },
+      { "original": "vegetable oil", "replacement": "ghee", "note": "Adds richness but no longer vegan" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Lamb Rogan Josh",
+    "description": "A slow-cooked Kashmiri lamb curry with a deep red color from dried chiles, enriched with yogurt and aromatic whole spices.",
+    "cuisine": "Indian",
+    "difficulty": "hard",
+    "cookingTimeMinutes": 120,
+    "servings": 6,
+    "ingredients": [
+      { "name": "bone-in lamb shoulder", "quantity": "1kg, cut into chunks", "optional": false },
+      { "name": "plain yogurt", "quantity": "200g", "optional": false },
+      { "name": "onions", "quantity": "3 large, thinly sliced", "optional": false },
+      { "name": "kashmiri chili powder", "quantity": "2 tbsp", "optional": false },
+      { "name": "ground fennel", "quantity": "1 tsp", "optional": false },
+      { "name": "ground ginger", "quantity": "1 tsp", "optional": false },
+      { "name": "cardamom pods", "quantity": "6", "optional": false },
+      { "name": "cinnamon stick", "quantity": "1", "optional": false },
+      { "name": "bay leaves", "quantity": "2", "optional": false },
+      { "name": "ghee", "quantity": "3 tbsp", "optional": false },
+      { "name": "saffron threads", "quantity": "a pinch", "optional": true },
+      { "name": "salt", "quantity": "to taste", "optional": false }
+    ],
+    "steps": [
+      "Heat ghee in a heavy-bottomed pot and fry the sliced onions over medium heat for 12-15 minutes until deeply caramelized.",
+      "Remove half the onions and set aside, then add the lamb pieces to the pot and brown on all sides.",
+      "Add cardamom, cinnamon, and bay leaves, stirring for 1 minute until fragrant.",
+      "Mix in kashmiri chili powder, ground fennel, and ground ginger, coating the lamb evenly.",
+      "Whisk the yogurt until smooth, then add it one tablespoon at a time, stirring constantly to prevent curdling.",
+      "Add 1 cup of water, the reserved onions, and saffron, then cover and simmer on low heat for 1.5 hours until the lamb is fork-tender.",
+      "Uncover, increase heat, and reduce the sauce until it clings to the meat, then serve with steamed basmati rice."
+    ],
+    "nutrition": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 36,
+      "fiber": 2
+    },
+    "dietaryTags": ["gluten-free"],
+    "substitutions": [
+      { "original": "lamb shoulder", "replacement": "beef chuck", "note": "Similar collagen content for a rich, tender stew" },
+      { "original": "ghee", "replacement": "neutral oil", "note": "Loses some richness but makes it dairy-free when combined with coconut yogurt" },
+      { "original": "saffron", "replacement": "a pinch of turmeric", "note": "Won't replicate the flavor but provides similar golden color" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Kung Pao Chicken",
+    "description": "A fiery Sichuan stir-fry of tender chicken, roasted peanuts, and dried chiles in a savory-sweet sauce with a tingle of Sichuan peppercorn.",
+    "cuisine": "Chinese",
+    "difficulty": "medium",
+    "cookingTimeMinutes": 30,
+    "servings": 4,
+    "ingredients": [
+      { "name": "boneless chicken breast", "quantity": "500g, cubed", "optional": false },
+      { "name": "roasted peanuts", "quantity": "1/3 cup", "optional": false },
+      { "name": "dried red chiles", "quantity": "10-12", "optional": false },
+      { "name": "Sichuan peppercorns", "quantity": "1 tsp", "optional": false },
+      { "name": "soy sauce", "quantity": "2 tbsp", "optional": false },
+      { "name": "Chinese black vinegar", "quantity": "1 tbsp", "optional": false },
+      { "name": "shaoxing wine", "quantity": "1 tbsp", "optional": false },
+      { "name": "sugar", "quantity": "2 tsp", "optional": false },
+      { "name": "cornstarch", "quantity": "1 tbsp", "optional": false },
+      { "name": "scallions", "quantity": "3, cut into 2cm pieces", "optional": false },
+      { "name": "garlic", "quantity": "3 cloves, minced", "optional": false },
+      { "name": "vegetable oil", "quantity": "2 tbsp", "optional": false }
+    ],
+    "steps": [
+      "Toss the chicken cubes with 1 tbsp soy sauce, shaoxing wine, and cornstarch, and let marinate for 15 minutes.",
+      "Mix the sauce: combine remaining soy sauce, black vinegar, sugar, and 2 tbsp water in a small bowl.",
+      "Heat oil in a wok over high heat until smoking, then stir-fry the chicken for 3-4 minutes until just cooked through, and set aside.",
+      "In the same wok, add a splash more oil and fry the dried chiles and Sichuan peppercorns for 30 seconds until fragrant and darkened.",
+      "Add garlic and scallion whites, stir-fry for 30 seconds, then return the chicken to the wok.",
+      "Pour in the sauce, toss everything together, and cook for 1 minute until glossy and thickened.",
+      "Fold in the roasted peanuts and scallion greens, then serve immediately over steamed rice."
+    ],
+    "nutrition": {
+      "calories": 390,
+      "protein": 32,
+      "carbs": 16,
+      "fat": 22,
+      "fiber": 2
+    },
+    "dietaryTags": ["dairy-free"],
+    "substitutions": [
+      { "original": "chicken breast", "replacement": "firm tofu, pressed and cubed", "note": "Press for 30 minutes for best texture; makes it vegetarian" },
+      { "original": "Chinese black vinegar", "replacement": "balsamic vinegar", "note": "Similar dark color and sweet-tart profile" },
+      { "original": "Sichuan peppercorns", "replacement": "black pepper with a tiny bit of lemon zest", "note": "Won't replicate the numbing sensation but adds bite" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Mapo Tofu",
+    "description": "A bold Sichuan classic of silken tofu in a fiery, deeply savory sauce of fermented bean paste, ground pork, and Sichuan peppercorn.",
+    "cuisine": "Chinese",
+    "difficulty": "easy",
+    "cookingTimeMinutes": 25,
+    "servings": 4,
+    "ingredients": [
+      { "name": "soft tofu", "quantity": "400g, cubed", "optional": false },
+      { "name": "ground pork", "quantity": "150g", "optional": false },
+      { "name": "doubanjiang (fermented chili bean paste)", "quantity": "2 tbsp", "optional": false },
+      { "name": "Sichuan peppercorns", "quantity": "1 tsp, ground", "optional": false },
+      { "name": "garlic", "quantity": "3 cloves, minced", "optional": false },
+      { "name": "fresh ginger", "quantity": "1 tsp, minced", "optional": false },
+      { "name": "scallions", "quantity": "3, sliced", "optional": false },
+      { "name": "soy sauce", "quantity": "1 tbsp", "optional": false },
+      { "name": "cornstarch slurry", "quantity": "1 tbsp cornstarch + 2 tbsp water", "optional": false },
+      { "name": "vegetable oil", "quantity": "2 tbsp", "optional": false }
+    ],
+    "steps": [
+      "Gently simmer the tofu cubes in salted water for 3 minutes to warm through and firm up slightly, then drain carefully.",
+      "Heat oil in a wok over high heat and stir-fry the ground pork, breaking it up, until browned and crispy, about 4 minutes.",
+      "Push the pork to one side, add the doubanjiang to the oil, and fry for 1 minute until the oil turns red and fragrant.",
+      "Add garlic, ginger, and scallion whites, stirring for 30 seconds.",
+      "Pour in 3/4 cup water and soy sauce, bring to a simmer, then gently slide in the drained tofu cubes.",
+      "Simmer for 5 minutes, then stir in the cornstarch slurry and cook until the sauce thickens and coats the tofu.",
+      "Sprinkle with ground Sichuan peppercorn and scallion greens, and serve over steamed rice."
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 10,
+      "fat": 20,
+      "fiber": 1
+    },
+    "dietaryTags": ["dairy-free"],
+    "substitutions": [
+      { "original": "ground pork", "replacement": "crumbled shiitake mushrooms", "note": "Finely dice and pan-fry until crispy for a vegan version" },
+      { "original": "doubanjiang", "replacement": "gochujang mixed with miso paste", "note": "1 tbsp each; slightly different flavor but good umami" },
+      { "original": "soft tofu", "replacement": "medium-firm tofu", "note": "Holds its shape better but less silky texture" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Tonkotsu Ramen",
+    "description": "A rich, milky pork bone broth ramen topped with chashu pork, soft-boiled egg, nori, and scallions — the ultimate comfort bowl.",
+    "cuisine": "Japanese",
+    "difficulty": "hard",
+    "cookingTimeMinutes": 240,
+    "servings": 4,
+    "ingredients": [
+      { "name": "pork femur bones", "quantity": "1.5kg", "optional": false },
+      { "name": "pork belly", "quantity": "400g, for chashu", "optional": false },
+      { "name": "ramen noodles", "quantity": "4 portions", "optional": false },
+      { "name": "eggs", "quantity": "4", "optional": false },
+      { "name": "soy sauce", "quantity": "4 tbsp", "optional": false },
+      { "name": "mirin", "quantity": "2 tbsp", "optional": false },
+      { "name": "garlic", "quantity": "6 cloves, smashed", "optional": false },
+      { "name": "fresh ginger", "quantity": "3cm piece, sliced", "optional": false },
+      { "name": "scallions", "quantity": "4", "optional": false },
+      { "name": "nori sheets", "quantity": "4", "optional": false },
+      { "name": "sesame oil", "quantity": "1 tsp", "optional": true }
+    ],
+    "steps": [
+      "Blanch the pork bones in boiling water for 10 minutes, then drain and rinse thoroughly to remove impurities.",
+      "Return bones to a clean pot with garlic, ginger, and scallion whites, cover with fresh water, and bring to a rolling boil. Maintain a vigorous boil for 3-4 hours, adding water as needed, until the broth is opaque and milky.",
+      "Meanwhile, roll and tie the pork belly, sear in a hot pan, then braise in a mix of soy sauce, mirin, and water at 160°C/320°F for 2 hours until meltingly tender.",
+      "Soft-boil the eggs for 6.5 minutes, cool in ice water, peel, and marinate in the chashu braising liquid for at least 1 hour.",
+      "Strain the broth, discard the solids, and season with soy sauce and salt to taste.",
+      "Cook the ramen noodles according to package instructions, drain, and divide among bowls.",
+      "Ladle the hot broth over the noodles, then top with sliced chashu pork, halved marinated eggs, nori, sliced scallions, and a drizzle of sesame oil."
+    ],
+    "nutrition": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 52,
+      "fat": 32,
+      "fiber": 2
+    },
+    "dietaryTags": ["dairy-free"],
+    "substitutions": [
+      { "original": "pork femur bones", "replacement": "chicken carcasses", "note": "Makes a lighter, chicken paitan-style broth; boil for 2 hours" },
+      { "original": "ramen noodles", "replacement": "shirataki noodles", "note": "Low-carb alternative; rinse well before using" },
+      { "original": "pork belly", "replacement": "chicken thighs", "note": "Braise for 45 minutes instead; slice thinly for topping" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Vegetable Tempura",
+    "description": "Light, shatteringly crispy Japanese tempura with an assortment of seasonal vegetables, served with a dashi-based dipping sauce.",
+    "cuisine": "Japanese",
+    "difficulty": "medium",
+    "cookingTimeMinutes": 35,
+    "servings": 4,
+    "ingredients": [
+      { "name": "sweet potato", "quantity": "1 medium, thinly sliced", "optional": false },
+      { "name": "broccoli florets", "quantity": "1 cup", "optional": false },
+      { "name": "shiitake mushrooms", "quantity": "8, stems removed", "optional": false },
+      { "name": "bell pepper", "quantity": "1, cut into strips", "optional": false },
+      { "name": "green beans", "quantity": "12", "optional": false },
+      { "name": "all-purpose flour", "quantity": "1 cup", "optional": false },
+      { "name": "ice-cold sparkling water", "quantity": "3/4 cup", "optional": false },
+      { "name": "egg", "quantity": "1", "optional": false },
+      { "name": "soy sauce", "quantity": "3 tbsp", "optional": false },
+      { "name": "mirin", "quantity": "2 tbsp", "optional": false },
+      { "name": "dashi stock", "quantity": "1/2 cup", "optional": false },
+      { "name": "vegetable oil", "quantity": "for deep-frying", "optional": false }
+    ],
+    "steps": [
+      "Prepare the dipping sauce (tentsuyu) by combining dashi, soy sauce, and mirin in a small saucepan, heating until just simmering, then set aside.",
+      "Heat vegetable oil to 170°C/340°F in a deep pot or fryer.",
+      "Whisk together the egg and ice-cold sparkling water, then add the flour all at once and stir briefly with chopsticks — the batter should be lumpy.",
+      "Pat all vegetables completely dry, dust lightly with extra flour, then dip into the batter, letting excess drip off.",
+      "Fry in small batches for 2-3 minutes until the batter is pale golden and crispy, flipping once.",
+      "Drain on a wire rack set over a baking sheet, and serve immediately with the warm tentsuyu dipping sauce and grated daikon if desired."
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 14,
+      "fiber": 4
+    },
+    "dietaryTags": ["vegetarian", "dairy-free"],
+    "substitutions": [
+      { "original": "all-purpose flour", "replacement": "rice flour", "note": "Creates an extra-crispy, gluten-free batter" },
+      { "original": "egg", "replacement": "2 tbsp aquafaba", "note": "Chickpea liquid works as an egg replacement for vegan tempura" },
+      { "original": "dashi stock", "replacement": "kombu seaweed broth", "note": "Simmer a piece of kombu in water for 10 minutes for vegetarian dashi" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Pad Thai",
+    "description": "Thailand's beloved stir-fried rice noodle dish with shrimp, scrambled egg, bean sprouts, and crushed peanuts in a tangy tamarind sauce.",
+    "cuisine": "Thai",
+    "difficulty": "medium",
+    "cookingTimeMinutes": 30,
+    "servings": 4,
+    "ingredients": [
+      { "name": "flat rice noodles", "quantity": "250g", "optional": false },
+      { "name": "large shrimp", "quantity": "200g, peeled", "optional": false },
+      { "name": "eggs", "quantity": "2", "optional": false },
+      { "name": "firm tofu", "quantity": "100g, cubed", "optional": false },
+      { "name": "tamarind paste", "quantity": "2 tbsp", "optional": false },
+      { "name": "fish sauce", "quantity": "2 tbsp", "optional": false },
+      { "name": "palm sugar", "quantity": "1.5 tbsp", "optional": false },
+      { "name": "garlic", "quantity": "3 cloves, minced", "optional": false },
+      { "name": "bean sprouts", "quantity": "1 cup", "optional": false },
+      { "name": "roasted peanuts", "quantity": "1/4 cup, crushed", "optional": false },
+      { "name": "lime", "quantity": "2, cut into wedges", "optional": false },
+      { "name": "scallions", "quantity": "3, cut into 3cm pieces", "optional": false }
+    ],
+    "steps": [
+      "Soak the rice noodles in room-temperature water for 30 minutes until pliable, then drain.",
+      "Mix the pad thai sauce: combine tamarind paste, fish sauce, and palm sugar in a bowl, stirring until the sugar dissolves.",
+      "Heat oil in a wok over high heat, sear the shrimp for 1 minute per side, then remove and set aside.",
+      "Add a bit more oil, fry the tofu until golden on all sides, then push to one side. Crack in the eggs and scramble.",
+      "Add the drained noodles and the pad thai sauce, tossing with tongs for 2-3 minutes until the noodles are tender and coated.",
+      "Return the shrimp, add the scallions and half the bean sprouts, and toss for 1 more minute.",
+      "Serve topped with crushed peanuts, remaining bean sprouts, and lime wedges."
+    ],
+    "nutrition": {
+      "calories": 440,
+      "protein": 24,
+      "carbs": 54,
+      "fat": 14,
+      "fiber": 3
+    },
+    "dietaryTags": ["dairy-free", "gluten-free"],
+    "substitutions": [
+      { "original": "shrimp", "replacement": "chicken breast, thinly sliced", "note": "Stir-fry for 3-4 minutes until cooked through" },
+      { "original": "fish sauce", "replacement": "soy sauce", "note": "For a non-seafood alternative; adjust salt to taste" },
+      { "original": "palm sugar", "replacement": "brown sugar", "note": "Similar caramel-like sweetness" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Green Curry with Chicken",
+    "description": "A vibrant and aromatic Thai green curry with tender chicken, Thai eggplant, and bamboo shoots swimming in rich coconut milk.",
+    "cuisine": "Thai",
+    "difficulty": "easy",
+    "cookingTimeMinutes": 30,
+    "servings": 4,
+    "ingredients": [
+      { "name": "boneless chicken thighs", "quantity": "500g, sliced", "optional": false },
+      { "name": "green curry paste", "quantity": "3 tbsp", "optional": false },
+      { "name": "coconut milk", "quantity": "400ml can", "optional": false },
+      { "name": "Thai eggplant", "quantity": "6, quartered", "optional": false },
+      { "name": "bamboo shoots", "quantity": "100g, sliced", "optional": false },
+      { "name": "Thai basil", "quantity": "1 cup, leaves", "optional": false },
+      { "name": "fish sauce", "quantity": "2 tbsp", "optional": false },
+      { "name": "palm sugar", "quantity": "1 tbsp", "optional": false },
+      { "name": "kaffir lime leaves", "quantity": "4, torn", "optional": false },
+      { "name": "vegetable oil", "quantity": "1 tbsp", "optional": false }
+    ],
+    "steps": [
+      "Scoop the thick cream from the top of the coconut milk can into a wok over medium-high heat, and let it split and become oily.",
+      "Add the green curry paste and fry in the coconut cream for 2-3 minutes until very fragrant.",
+      "Add the sliced chicken and stir-fry for 3 minutes until the outside is sealed.",
+      "Pour in the remaining coconut milk, add kaffir lime leaves, eggplant, and bamboo shoots, then simmer for 12-15 minutes.",
+      "Season with fish sauce and palm sugar, adjusting the balance of salty and sweet to taste.",
+      "Stir in the Thai basil leaves just before serving, and serve over jasmine rice."
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 14,
+      "fat": 30,
+      "fiber": 3
+    },
+    "dietaryTags": ["gluten-free", "dairy-free"],
+    "substitutions": [
+      { "original": "chicken thighs", "replacement": "extra-firm tofu", "note": "Press and cube the tofu for a vegetarian version" },
+      { "original": "Thai eggplant", "replacement": "zucchini, cubed", "note": "Add in the last 5 minutes to avoid overcooking" },
+      { "original": "fish sauce", "replacement": "soy sauce with a pinch of seaweed powder", "note": "For a vegan-friendly umami substitute" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Classic Smash Burger",
+    "description": "Thin, crispy-edged beef patties with melted American cheese, tangy pickles, and special sauce on a soft toasted bun.",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "cookingTimeMinutes": 20,
+    "servings": 4,
+    "ingredients": [
+      { "name": "ground beef (80/20)", "quantity": "500g", "optional": false },
+      { "name": "American cheese slices", "quantity": "8", "optional": false },
+      { "name": "brioche buns", "quantity": "4", "optional": false },
+      { "name": "dill pickles", "quantity": "8 slices", "optional": false },
+      { "name": "yellow onion", "quantity": "1, thinly sliced", "optional": false },
+      { "name": "mayonnaise", "quantity": "3 tbsp", "optional": false },
+      { "name": "ketchup", "quantity": "1 tbsp", "optional": false },
+      { "name": "yellow mustard", "quantity": "1 tsp", "optional": false },
+      { "name": "salt and pepper", "quantity": "to taste", "optional": false }
+    ],
+    "steps": [
+      "Mix mayonnaise, ketchup, and mustard together to make the special sauce and set aside.",
+      "Divide the ground beef into 8 equal balls (about 60g each) and season generously with salt and pepper.",
+      "Heat a cast-iron skillet or flat griddle over high heat until smoking hot.",
+      "Place a beef ball on the griddle and immediately smash it flat with a sturdy spatula, pressing hard for 10 seconds. Season the top with salt.",
+      "Cook without moving for 2-3 minutes until the edges are deeply browned and crispy, then lay a cheese slice on top and flip briefly to melt.",
+      "Toast the brioche buns cut-side down on the griddle for 30 seconds.",
+      "Assemble each burger with special sauce on both bun halves, two smashed patties with cheese, pickles, and sliced onion."
+    ],
+    "nutrition": {
+      "calories": 620,
+      "protein": 34,
+      "carbs": 36,
+      "fat": 38,
+      "fiber": 1
+    },
+    "dietaryTags": [],
+    "substitutions": [
+      { "original": "ground beef", "replacement": "ground turkey or plant-based ground", "note": "Turkey is leaner; plant-based gives a vegetarian option" },
+      { "original": "American cheese", "replacement": "sharp cheddar", "note": "More flavor but doesn't melt as smoothly" },
+      { "original": "brioche buns", "replacement": "lettuce wraps", "note": "For a low-carb or gluten-free option" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Southern-Style Mac and Cheese",
+    "description": "Creamy, baked macaroni and cheese with a blend of sharp cheddar, Gruyère, and a golden breadcrumb topping.",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "cookingTimeMinutes": 45,
+    "servings": 6,
+    "ingredients": [
+      { "name": "elbow macaroni", "quantity": "400g", "optional": false },
+      { "name": "sharp cheddar cheese", "quantity": "250g, shredded", "optional": false },
+      { "name": "Gruyère cheese", "quantity": "150g, shredded", "optional": false },
+      { "name": "whole milk", "quantity": "500ml", "optional": false },
+      { "name": "unsalted butter", "quantity": "50g", "optional": false },
+      { "name": "all-purpose flour", "quantity": "3 tbsp", "optional": false },
+      { "name": "Dijon mustard", "quantity": "1 tsp", "optional": false },
+      { "name": "smoked paprika", "quantity": "1/2 tsp", "optional": false },
+      { "name": "panko breadcrumbs", "quantity": "1/2 cup", "optional": false },
+      { "name": "salt and pepper", "quantity": "to taste", "optional": false }
+    ],
+    "steps": [
+      "Cook the macaroni in salted boiling water until just al dente, drain, and set aside.",
+      "Melt butter in a large saucepan over medium heat, whisk in flour, and cook the roux for 2 minutes.",
+      "Gradually pour in the milk while whisking constantly, and cook until the sauce thickens, about 5 minutes.",
+      "Remove from heat and stir in most of the cheddar and Gruyère (reserve some for topping), Dijon mustard, paprika, salt, and pepper.",
+      "Fold in the cooked macaroni, then pour into a greased baking dish.",
+      "Top with remaining cheese and panko breadcrumbs, and bake at 190°C/375°F for 20 minutes until golden and bubbling."
+    ],
+    "nutrition": {
+      "calories": 560,
+      "protein": 26,
+      "carbs": 50,
+      "fat": 28,
+      "fiber": 2
+    },
+    "dietaryTags": ["vegetarian"],
+    "substitutions": [
+      { "original": "Gruyère", "replacement": "fontina or Monterey Jack", "note": "Both melt well and have mild, nutty flavors" },
+      { "original": "elbow macaroni", "replacement": "gluten-free pasta", "note": "Use a sturdy shape like penne for best results" },
+      { "original": "whole milk", "replacement": "oat milk with 1 tbsp nutritional yeast", "note": "For a dairy-free béchamel; use vegan cheese too" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Shakshuka",
+    "description": "Eggs gently poached in a spiced, chunky tomato and bell pepper sauce with cumin, paprika, and crumbled feta.",
+    "cuisine": "Mediterranean",
+    "difficulty": "easy",
+    "cookingTimeMinutes": 30,
+    "servings": 4,
+    "ingredients": [
+      { "name": "eggs", "quantity": "6", "optional": false },
+      { "name": "crushed tomatoes", "quantity": "800g can", "optional": false },
+      { "name": "red bell pepper", "quantity": "1, diced", "optional": false },
+      { "name": "onion", "quantity": "1, diced", "optional": false },
+      { "name": "garlic", "quantity": "3 cloves, minced", "optional": false },
+      { "name": "ground cumin", "quantity": "1 tsp", "optional": false },
+      { "name": "smoked paprika", "quantity": "1 tsp", "optional": false },
+      { "name": "cayenne pepper", "quantity": "1/4 tsp", "optional": true },
+      { "name": "feta cheese", "quantity": "60g, crumbled", "optional": false },
+      { "name": "olive oil", "quantity": "2 tbsp", "optional": false },
+      { "name": "fresh parsley", "quantity": "for garnish", "optional": true },
+      { "name": "crusty bread", "quantity": "for serving", "optional": false }
+    ],
+    "steps": [
+      "Heat olive oil in a large oven-safe skillet over medium heat, then sauté the onion and bell pepper for 6-7 minutes until softened.",
+      "Add garlic, cumin, paprika, and cayenne, stirring for 1 minute until fragrant.",
+      "Pour in the crushed tomatoes, season with salt and pepper, and simmer for 10 minutes until slightly thickened.",
+      "Make 6 wells in the sauce with a spoon and crack an egg into each well.",
+      "Cover the skillet and cook on low heat for 6-8 minutes until the egg whites are set but the yolks are still runny.",
+      "Scatter crumbled feta and fresh parsley over the top, and serve straight from the skillet with crusty bread for dipping."
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 18,
+      "fiber": 5
+    },
+    "dietaryTags": ["vegetarian", "gluten-free"],
+    "substitutions": [
+      { "original": "feta cheese", "replacement": "goat cheese", "note": "Creamier texture with similar tangy flavor" },
+      { "original": "eggs", "replacement": "silken tofu rounds", "note": "Nestle thick tofu slices into the sauce for a vegan version" },
+      { "original": "crushed tomatoes", "replacement": "roasted red pepper and tomato mix", "note": "Blend roasted peppers with tomatoes for a smokier base" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Falafel Wrap",
+    "description": "Crispy, herb-packed chickpea falafel tucked into warm pita with tahini sauce, pickled turnips, and fresh vegetables.",
+    "cuisine": "Mediterranean",
+    "difficulty": "medium",
+    "cookingTimeMinutes": 50,
+    "servings": 4,
+    "ingredients": [
+      { "name": "dried chickpeas", "quantity": "250g, soaked overnight", "optional": false },
+      { "name": "fresh parsley", "quantity": "1 cup, packed", "optional": false },
+      { "name": "fresh cilantro", "quantity": "1/2 cup", "optional": false },
+      { "name": "onion", "quantity": "1 small", "optional": false },
+      { "name": "garlic", "quantity": "4 cloves", "optional": false },
+      { "name": "ground cumin", "quantity": "2 tsp", "optional": false },
+      { "name": "ground coriander", "quantity": "1 tsp", "optional": false },
+      { "name": "baking powder", "quantity": "1/2 tsp", "optional": false },
+      { "name": "tahini", "quantity": "3 tbsp", "optional": false },
+      { "name": "lemon juice", "quantity": "2 tbsp", "optional": false },
+      { "name": "pita bread", "quantity": "4 rounds", "optional": false },
+      { "name": "vegetable oil", "quantity": "for frying", "optional": false }
+    ],
+    "steps": [
+      "Drain the soaked chickpeas thoroughly and pulse in a food processor with parsley, cilantro, onion, garlic, cumin, coriander, salt, and pepper until the mixture is coarse but holds together when pressed.",
+      "Stir in the baking powder, then refrigerate the mixture for 30 minutes to firm up.",
+      "Shape the mixture into walnut-sized balls, flattening slightly into discs.",
+      "Heat 5cm of oil to 175°C/350°F and fry the falafel in batches for 3-4 minutes until deeply golden and crispy, draining on paper towels.",
+      "Make the tahini sauce by whisking tahini with lemon juice, a pinch of salt, and water until it reaches a pourable consistency.",
+      "Warm the pita bread, fill with falafel, drizzle with tahini sauce, and add fresh tomato, cucumber, and pickled turnips."
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 56,
+      "fat": 22,
+      "fiber": 10
+    },
+    "dietaryTags": ["vegan", "dairy-free", "high-fiber"],
+    "substitutions": [
+      { "original": "dried chickpeas", "replacement": "dried fava beans", "note": "Egyptian-style falafel (ta'ameya); greener and lighter" },
+      { "original": "pita bread", "replacement": "large lettuce leaves", "note": "For a low-carb, gluten-free wrap" },
+      { "original": "deep frying", "replacement": "baking at 200°C/400°F for 25 minutes", "note": "Brush with oil and flip halfway; less crispy but lower fat" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Coq au Vin",
+    "description": "A classic French braise of chicken slowly simmered in red Burgundy wine with lardons, pearl onions, and mushrooms until fall-off-the-bone tender.",
+    "cuisine": "French",
+    "difficulty": "hard",
+    "cookingTimeMinutes": 150,
+    "servings": 6,
+    "ingredients": [
+      { "name": "whole chicken", "quantity": "1.5kg, cut into 8 pieces", "optional": false },
+      { "name": "red Burgundy wine", "quantity": "750ml (1 bottle)", "optional": false },
+      { "name": "lardons or thick-cut bacon", "quantity": "150g", "optional": false },
+      { "name": "pearl onions", "quantity": "200g, peeled", "optional": false },
+      { "name": "cremini mushrooms", "quantity": "250g, quartered", "optional": false },
+      { "name": "carrots", "quantity": "2, sliced", "optional": false },
+      { "name": "garlic", "quantity": "4 cloves, crushed", "optional": false },
+      { "name": "tomato paste", "quantity": "2 tbsp", "optional": false },
+      { "name": "chicken stock", "quantity": "250ml", "optional": false },
+      { "name": "fresh thyme", "quantity": "4 sprigs", "optional": false },
+      { "name": "bay leaves", "quantity": "2", "optional": false },
+      { "name": "butter", "quantity": "30g", "optional": false }
+    ],
+    "steps": [
+      "Season the chicken pieces generously with salt and pepper. In a Dutch oven, render the lardons over medium heat until crispy, then remove and set aside.",
+      "Brown the chicken pieces in the bacon fat in batches, getting a deep golden crust on all sides, about 4 minutes per side. Remove and set aside.",
+      "Sauté the pearl onions and carrots in the same pot for 5 minutes, then add garlic and tomato paste, cooking for 1 more minute.",
+      "Deglaze with the entire bottle of red wine, scraping up all the fond, then add the chicken stock, thyme, and bay leaves.",
+      "Return the chicken and lardons to the pot, bring to a gentle simmer, then cover and cook in the oven at 160°C/325°F for 1.5 hours.",
+      "In a separate pan, sauté the mushrooms in butter until golden, then add to the pot in the last 15 minutes of cooking.",
+      "Remove the chicken, strain the sauce if desired, and reduce it on the stovetop until it coats the back of a spoon, then serve over the chicken."
+    ],
+    "nutrition": {
+      "calories": 580,
+      "protein": 40,
+      "carbs": 16,
+      "fat": 30,
+      "fiber": 3
+    },
+    "dietaryTags": ["gluten-free"],
+    "substitutions": [
+      { "original": "red Burgundy wine", "replacement": "Pinot Noir or Côtes du Rhône", "note": "Any dry, medium-bodied red wine works well" },
+      { "original": "lardons", "replacement": "pancetta", "note": "Italian cured pork belly; similar richness" },
+      { "original": "pearl onions", "replacement": "shallots, halved", "note": "Sweeter and easier to find; halve them lengthwise" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Kimchi Jjigae",
+    "description": "A deeply savory and spicy Korean stew made with well-fermented kimchi, pork belly, and silken tofu, perfect for cold weather.",
+    "cuisine": "Korean",
+    "difficulty": "easy",
+    "cookingTimeMinutes": 35,
+    "servings": 4,
+    "ingredients": [
+      { "name": "fermented napa cabbage kimchi", "quantity": "2 cups, chopped", "optional": false },
+      { "name": "pork belly", "quantity": "200g, thinly sliced", "optional": false },
+      { "name": "soft tofu", "quantity": "300g", "optional": false },
+      { "name": "kimchi brine", "quantity": "1/4 cup", "optional": false },
+      { "name": "gochugaru (Korean red pepper flakes)", "quantity": "1 tbsp", "optional": false },
+      { "name": "garlic", "quantity": "3 cloves, minced", "optional": false },
+      { "name": "scallions", "quantity": "2, sliced", "optional": false },
+      { "name": "sesame oil", "quantity": "1 tsp", "optional": false },
+      { "name": "water or anchovy broth", "quantity": "2 cups", "optional": false },
+      { "name": "sugar", "quantity": "1/2 tsp", "optional": true }
+    ],
+    "steps": [
+      "Heat sesame oil in a heavy pot over medium-high heat and stir-fry the pork belly slices until the fat starts to render, about 3 minutes.",
+      "Add the chopped kimchi and stir-fry together with the pork for 4-5 minutes until the kimchi is slightly caramelized.",
+      "Add gochugaru and garlic, stirring for 30 seconds.",
+      "Pour in the water or anchovy broth and kimchi brine, bring to a boil, then reduce to a simmer and cook for 15 minutes.",
+      "Gently slide in large spoonfuls of soft tofu, keeping them in chunks, and simmer for another 5 minutes.",
+      "Taste and adjust with sugar or more kimchi brine, top with sliced scallions, and serve bubbling hot with steamed rice."
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 20,
+      "carbs": 10,
+      "fat": 24,
+      "fiber": 3
+    },
+    "dietaryTags": ["gluten-free", "dairy-free"],
+    "substitutions": [
+      { "original": "pork belly", "replacement": "canned tuna", "note": "A popular Korean variation called chamchi jjigae; add at the end" },
+      { "original": "gochugaru", "replacement": "Aleppo pepper flakes", "note": "Milder and slightly fruity; use a bit more" },
+      { "original": "anchovy broth", "replacement": "dashida (Korean beef stock powder) in water", "note": "Convenient shortcut with good depth of flavor" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Spanakopita",
+    "description": "Flaky layers of golden phyllo pastry encasing a savory filling of spinach, feta, and fresh dill — a beloved Greek pie.",
+    "cuisine": "Greek",
+    "difficulty": "hard",
+    "cookingTimeMinutes": 75,
+    "servings": 8,
+    "ingredients": [
+      { "name": "fresh spinach", "quantity": "500g", "optional": false },
+      { "name": "feta cheese", "quantity": "250g, crumbled", "optional": false },
+      { "name": "phyllo dough", "quantity": "12 sheets", "optional": false },
+      { "name": "onion", "quantity": "1 large, finely diced", "optional": false },
+      { "name": "scallions", "quantity": "4, sliced", "optional": false },
+      { "name": "fresh dill", "quantity": "1/4 cup, chopped", "optional": false },
+      { "name": "eggs", "quantity": "3, beaten", "optional": false },
+      { "name": "olive oil", "quantity": "60ml", "optional": false },
+      { "name": "unsalted butter", "quantity": "80g, melted", "optional": false },
+      { "name": "nutmeg", "quantity": "1/4 tsp", "optional": false },
+      { "name": "salt and pepper", "quantity": "to taste", "optional": false }
+    ],
+    "steps": [
+      "Wilt the spinach in a large pan, then squeeze out as much moisture as possible using a clean tea towel.",
+      "Sauté the diced onion in olive oil until softened, then combine with the spinach, scallions, dill, crumbled feta, beaten eggs, nutmeg, salt, and pepper.",
+      "Brush a 9x13 inch baking dish with melted butter.",
+      "Layer 6 sheets of phyllo in the dish, brushing each sheet generously with melted butter, letting the edges overhang.",
+      "Spread the spinach filling evenly over the phyllo base.",
+      "Top with the remaining 6 phyllo sheets, again brushing each with butter, then tuck or roll the overhanging edges inward.",
+      "Score the top layers into squares or diamonds with a sharp knife, then bake at 180°C/350°F for 35-40 minutes until the phyllo is deeply golden and crispy."
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 26,
+      "fat": 26,
+      "fiber": 3
+    },
+    "dietaryTags": ["vegetarian"],
+    "substitutions": [
+      { "original": "phyllo dough", "replacement": "puff pastry", "note": "Richer and sturdier; no need to brush between layers" },
+      { "original": "feta cheese", "replacement": "ricotta mixed with lemon zest", "note": "Milder and creamier; add extra salt" },
+      { "original": "fresh spinach", "replacement": "frozen spinach, thawed and drained", "note": "Squeeze very thoroughly; use 300g frozen" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  },
+  {
+    "title": "Beef Bourguignon",
+    "description": "A French country-style beef stew braised low and slow in red wine with root vegetables, herbs, and pearl onions until meltingly tender.",
+    "cuisine": "French",
+    "difficulty": "hard",
+    "cookingTimeMinutes": 180,
+    "servings": 6,
+    "ingredients": [
+      { "name": "beef chuck", "quantity": "1kg, cut into 4cm cubes", "optional": false },
+      { "name": "dry red wine", "quantity": "500ml", "optional": false },
+      { "name": "thick-cut bacon", "quantity": "150g, diced", "optional": false },
+      { "name": "pearl onions", "quantity": "200g, peeled", "optional": false },
+      { "name": "carrots", "quantity": "3, cut into chunks", "optional": false },
+      { "name": "cremini mushrooms", "quantity": "250g, halved", "optional": false },
+      { "name": "garlic", "quantity": "4 cloves, crushed", "optional": false },
+      { "name": "tomato paste", "quantity": "2 tbsp", "optional": false },
+      { "name": "beef stock", "quantity": "300ml", "optional": false },
+      { "name": "bouquet garni (thyme, bay leaf, parsley)", "quantity": "1 bundle", "optional": false },
+      { "name": "all-purpose flour", "quantity": "2 tbsp", "optional": false },
+      { "name": "butter", "quantity": "30g", "optional": false }
+    ],
+    "steps": [
+      "Pat the beef cubes dry, season with salt and pepper. Cook the bacon in a Dutch oven until crispy, remove, then sear the beef in batches in the bacon fat until browned on all sides.",
+      "Remove the beef, add carrots and pearl onions to the pot, and cook for 5 minutes until lightly colored.",
+      "Stir in garlic and tomato paste, cook for 1 minute, then sprinkle in the flour and stir to coat.",
+      "Deglaze with the red wine, scraping the bottom of the pot, then add the beef stock and bouquet garni.",
+      "Return the beef and bacon to the pot, bring to a simmer, cover, and transfer to the oven at 160°C/325°F for 2.5 hours.",
+      "In the last 30 minutes, sauté the mushrooms in butter until golden, then add them to the stew.",
+      "Remove the bouquet garni, adjust seasoning, and serve over mashed potatoes or egg noodles."
+    ],
+    "nutrition": {
+      "calories": 550,
+      "protein": 42,
+      "carbs": 18,
+      "fat": 28,
+      "fiber": 3
+    },
+    "dietaryTags": [],
+    "substitutions": [
+      { "original": "beef chuck", "replacement": "short ribs", "note": "Even more collagen for a richer, silkier sauce" },
+      { "original": "dry red wine", "replacement": "beef stock with 2 tbsp red wine vinegar", "note": "For a non-alcoholic version; add a splash of grape juice for depth" },
+      { "original": "all-purpose flour", "replacement": "arrowroot powder", "note": "Gluten-free thickener; add at the end mixed with cold water" }
+    ],
+    "imageUrl": "",
+    "isAIGenerated": false
+  }
+]
