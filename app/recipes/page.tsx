@@ -32,7 +32,10 @@ function RecipesContent() {
         params.set("difficulty", currentFilters.difficulty);
       if (currentFilters.maxCookingTime)
         params.set("maxCookingTime", String(currentFilters.maxCookingTime));
+<<<<<<< HEAD
       if (currentFilters.cuisine) params.set("cuisine", currentFilters.cuisine);
+=======
+>>>>>>> a5968cd (Fixed filters)
       if (currentFilters.dietaryTags?.length)
         params.set("dietary", currentFilters.dietaryTags.join(","));
       if (currentFilters.searchQuery)

@@ -63,3 +63,4 @@ export function getAdminDb(): Firestore {
   console.debug("[firebase-admin] Firestore Admin client initialized.");
   return _db;
 }
+

@@ -1,6 +1,7 @@
 // GET /api/recipes/search
 // Search and filter recipes from Firestore.
 // Supports filters: difficulty, maxCookingTime, cuisine, dietary tags, search query.
+// Fetches recipes with a single query (no composite indexes) and filters in memory.
 
 import { NextRequest } from "next/server";
 import { getAdminDb } from "@/lib/firebase-admin";
@@ -9,7 +10,6 @@ export async function GET(request: NextRequest) {
   try {
     const { searchParams } = request.nextUrl;
 
-    // Extract filter params from the query string.
     const difficulty = searchParams.get("difficulty");
     const maxTime = searchParams.get("maxCookingTime");
     const cuisine = searchParams.get("cuisine");
@@ -24,21 +24,13 @@ export async function GET(request: NextRequest) {
       query,
     });
 
-    // Start with the base collection reference.
+    // Single query: no .where() with orderBy to avoid composite index requirements.
     const adminDb = getAdminDb();
-    let recipesRef = adminDb.collection("recipes").orderBy("createdAt", "desc");
-
-    // Apply Firestore-supported filters.
-    if (difficulty) {
-      recipesRef = recipesRef.where("difficulty", "==", difficulty);
-    }
-    if (cuisine) {
-      recipesRef = recipesRef.where("cuisine", "==", cuisine);
-    }
-
-    // Execute the query (limit to 50 results).
-    const snapshot = await recipesRef.limit(50).get();
-    console.debug("[search] Recipes snapshot size:", snapshot.size);
+    const snapshot = await adminDb
+      .collection("recipes")
+      .orderBy("createdAt", "desc")
+      .limit(200)
+      .get();
 
     let recipes = snapshot.docs.map((doc) => ({
       id: doc.id,
@@ -46,11 +38,23 @@ export async function GET(request: NextRequest) {
     }));
 
     // Apply client-side filters that Firestore can't handle in a single query.
+    if (difficulty) {
+      recipes = recipes.filter(
+        (r: Record<string, unknown>) => r.difficulty === difficulty
+      );
+    }
+
     if (maxTime) {
       const maxMinutes = parseInt(maxTime, 10);
       recipes = recipes.filter(
         (r: Record<string, unknown>) =>
           (r.cookingTimeMinutes as number) <= maxMinutes
+      );
+    }
+
+    if (cuisine) {
+      recipes = recipes.filter(
+        (r: Record<string, unknown>) => r.cuisine === cuisine
       );
     }
 
@@ -80,3 +84,4 @@ export async function GET(request: NextRequest) {
     );
   }
 }
+

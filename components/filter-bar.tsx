@@ -115,3 +115,4 @@ export function FilterBar({ filters, onChange }: FilterBarProps) {
     </div>
   );
 }
+
