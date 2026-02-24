@@ -1,4 +1,4 @@
-// Filter bar for recipes: difficulty, max time, cuisine, dietary restrictions.
+// Filter bar for recipes: difficulty, max time, dietary restrictions.
 "use client";
 
 import {
@@ -11,7 +11,7 @@ import {
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { X } from "lucide-react";
-import { CUISINES, DIFFICULTIES, COOKING_TIME_OPTIONS } from "@/lib/constants";
+import { DIFFICULTIES, COOKING_TIME_OPTIONS } from "@/lib/constants";
 import type { RecipeFilters } from "@/lib/types";
 
 interface FilterBarProps {
@@ -80,26 +80,6 @@ export function FilterBar({ filters, onChange }: FilterBarProps) {
         </SelectContent>
       </Select>
 
-      {/* Cuisine filter */}
-      <Select
-        value={filters.cuisine || "all"}
-        onValueChange={(v) =>
-          updateFilter("cuisine", v === "all" ? undefined : v)
-        }
-      >
-        <SelectTrigger className="w-[150px]">
-          <SelectValue placeholder="Cuisine" />
-        </SelectTrigger>
-        <SelectContent>
-          <SelectItem value="all">All Cuisines</SelectItem>
-          {CUISINES.map((c) => (
-            <SelectItem key={c} value={c}>
-              {c}
-            </SelectItem>
-          ))}
-        </SelectContent>
-      </Select>
-
       {/* Clear filters button */}
       {hasFilters && (
         <Button
@@ -115,4 +95,3 @@ export function FilterBar({ filters, onChange }: FilterBarProps) {
     </div>
   );
 }
-
